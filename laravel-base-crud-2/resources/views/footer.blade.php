@@ -1,3 +1,3 @@
 <footer>
-ciao sono il footer
+ <h1>© mondo cuccioli </h1>
 </footer>
